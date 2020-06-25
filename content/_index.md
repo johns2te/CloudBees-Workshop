@@ -1,10 +1,10 @@
 ---
-title: "AWS Modernization Workshop"
+title: "CloudBees CI Workshop on"
 chapter: true
 weight: 1
 ---
 
-# AWS Modernization Workshop
+# CloudBees CI Workshop on
 
 ### Welcome
 
